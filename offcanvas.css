@@ -94,6 +94,7 @@ body {
 }
 .navbar-brand {
   padding-left: 15px;
+  font-weight: bold;
 }
 .navbar-custom .navbar-brand:hover {
   color: #ce811c;
